@@ -1,23 +1,34 @@
-<!DOCTYPE html>
 <html>
 
 <head>
-  <title>Contact Form Email</title>
+  <title>Kirim Email dengan PHP</title>
 </head>
 
 <body>
-
-  <h1>Contact Form Email</h1>
-  <p>Demo ini dibuat dan di upload oleh <a href="http://tutorialweb.net/" target="_blank">tutorialweb.net</a></p>
-
-  <form action="kirim.php" method="post">
-    <p><input type="text" name="nama" placeholder="Nama anda" size="30" required /></p>
-    <p><input type="email" name="email" placeholder="Email valid" size="30" required /></p>
-    <p><input type="text" name="judul" placeholder="Subjek pesan email" size="50" required /></p>
-    <p><textarea name="pesan" placeholder="Pesan anda" rows="7" cols="50" required></textarea>
-      <p><input type="submit" name="kirim" value="Kirim Pesan" /> <input type="reset" value="Hapus Text" /></p>
-  </form>
-
+  <div style="padding: 5px 30px;">
+    <h1>Kirim Email</h1>
+    <hr />
+    <form method="post" action="kirim.php" enctype="multipart/form-data">
+      <div style="margin-bottom: 10px;">
+        <label>Kepada</label><br />
+        <input type="email" name="email_penerima" placeholder="Email Penerima" style="margin-top: 5px;width: 400px" />
+      </div>
+      <div style="margin-bottom: 10px;">
+        <label>Subjek</label><br />
+        <input type="text" name="subjek" placeholder="Subjek" style="margin-top: 5px;width: 400px" />
+      </div>
+      <div style="margin-bottom: 10px;">
+        <label>Pesan</label><br />
+        <textarea name="pesan" placeholder="Pesan" rows="8" style="margin-top: 5px;width: 400px"></textarea>
+      </div>
+      <div style="margin-bottom: 20px;">
+        <label>Attachment</label><br />
+        <input type="file" name="attachment" style="margin-top: 5px;width: 400px" />
+      </div>
+      <hr />
+      <button type="submit">KIRIM EMAIL</button>
+    </form>
+  </div>
 </body>
 
 </html>
