@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="utf-8">
   <title>SIGMAT PROJECT</title>
@@ -39,35 +40,34 @@
 
   <?php include 'header.php';
   ?>
-  
+
 
   <section id="intro" class="clearfix">
     <div class="container">
 
       <div class="intro-img">
         <div class="owl-carousel testimonials-carousel wow bounceInUp" data-wow-duration="2.0s">
-       
-                <img src="img/portfolio/kantor/1.jpg" class="into1-img" alt="">    
-             
-                <img src="img/portfolio/apartemen/1.jpg" class="intro1-img" alt="">
-              
-                <img src="img/portfolio/ritel/1.jpg" class="intro1-img" alt="">
-              
-                <img src="img/portfolio/rumah/1.jpg" class="intro1-img" alt="">
-             
-            </div>
+
+          <img src="img/portfolio/kantor/10.jpg" class="into1-img" alt="">
+
+          <img src="img/portfolio/apartemen/10.jpg" class="intro1-img" alt="">
+
+          <img src="img/portfolio/ritel/1.jpg" class="intro1-img" alt="">
+
+          <img src="img/portfolio/rumah/1.jpg" class="intro1-img" alt="">
+
+        </div>
       </div>
 
       <div class="intro-info">
         <h2>Welcome To<br>Sigmat Project</h2>
         <div>
-          <a href="#about" class="btn-services ">Konsultasi Kami</a>
+          <a href="konsultasi.php" class="btn-services ">Konsultasi Kami</a>
           <a href="#services" class="btn-services ">Perkiraan Biaya</a><br>
           <a href="https://wa.me/6285717059061" class="btn-services">Layanan Kami</a>
         </div>
       </div>
 
-     
 
     </div>
   </section><!-- #intro -->
@@ -77,12 +77,12 @@
     <!--==========================
       About Us Section
     ============================-->
-    
+
     <section id="services" class="section-bg">
       <div class="container">
 
         <header class="section-header">
-          <h3><b>Fauzi Design</b></h3>
+          <h3><b>Fauzi Design 1</b></h3>
         </header>
 
         <div class="row">
@@ -104,14 +104,14 @@
 
           <div class="col-md-6 col-lg-5 offset-lg-1 wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
             <div class="box">
-               <div class="icon"><img src="img/icon/build-bangunan.png" style="color: #e9bf06;"></i></div>
+              <div class="icon"><img src="img/icon/build-bangunan.png" style="color: #e9bf06;"></i></div>
               <h4 class="title"><a href="">Jasa Build Bangunan</a></h4>
               <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatudddddddddddddddr</p>
             </div>
           </div>
           <div class="col-md-6 col-lg-5 wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
             <div class="box">
-                <div class="icon"><img src="img/icon/renov.png" style="color: #e9bf06;"></i></div>
+              <div class="icon"><img src="img/icon/renov.png" style="color: #e9bf06;"></i></div>
               <h4 class="title"><a href="">Jasa Renovasi</a></h4>
               <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
             </div>
@@ -136,18 +136,18 @@
 
           <div class="col-lg-4 mb-4">
             <div class="card wow bounceInUp">
-                <i class="fa fa-diamond"></i>
+              <i class="fa fa-diamond"></i>
               <div class="card-body">
                 <h5 class="card-title">Pembayaran</h5>
                 <p class="card-text">Kami mengunakan sistem pembayaran bertahap sesuai dengan hasil pekerjaan kami di lapangan Itulah alasan mengapa kami menerapkan sistem pembayaran
-                  </p>
+                </p>
               </div>
             </div>
           </div>
 
           <div class="col-lg-4 mb-4">
             <div class="card wow bounceInUp">
-                <i class="fa fa-language"></i>
+              <i class="fa fa-language"></i>
               <div class="card-body">
                 <h5 class="card-title">Keahlian</h5>
                 <p class="card-text">Kami memiliki ahli terbaik dalam bidangnya untuk menghasilkan proyek kami dari arsitek, lighting, dan interior design
@@ -158,7 +158,7 @@
 
           <div class="col-lg-4 mb-4">
             <div class="card wow bounceInUp">
-                <i class="fa fa-object-group"></i>
+              <i class="fa fa-object-group"></i>
               <div class="card-body">
                 <h5 class="card-title">Pengerjaan</h5>
                 <p class="card-text">Setelah proses pengerjaanselesai kami memberikan garansi perawatan selama satu tahun jika rumah terdapat bocor atau retak
@@ -190,7 +190,7 @@
             <span data-toggle="counter-up">18</span>
             <p>Hard Workers</p>
           </div>
-  
+
         </div>
 
       </div>
@@ -347,7 +347,7 @@
           </div>
 
 
-           <div class="col-lg-4 col-md-6 portfolio-item filter-ritel" data-wow-delay="0.1s">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-ritel" data-wow-delay="0.1s">
             <div class="portfolio-wrap">
               <img src="img/portfolio/ritel/1.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
@@ -380,7 +380,7 @@
           <div class="col-lg-8">
 
             <div class="owl-carousel testimonials-carousel wow fadeInUp">
-    
+
               <div class="testimonial-item">
                 <img src="img/testimonial-1.jpg" class="testimonial-img" alt="">
                 <h3>Saul Goodman</h3>
@@ -389,7 +389,7 @@
                   Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
                 </p>
               </div>
-    
+
               <div class="testimonial-item">
                 <img src="img/testimonial-2.jpg" class="testimonial-img" alt="">
                 <h3>Sara Wilsson</h3>
@@ -398,7 +398,7 @@
                   Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
                 </p>
               </div>
-    
+
               <div class="testimonial-item">
                 <img src="img/testimonial-3.jpg" class="testimonial-img" alt="">
                 <h3>Jena Karlis</h3>
@@ -407,7 +407,7 @@
                   Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
                 </p>
               </div>
-    
+
               <div class="testimonial-item">
                 <img src="img/testimonial-4.jpg" class="testimonial-img" alt="">
                 <h3>Matt Brandon</h3>
@@ -416,7 +416,7 @@
                   Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
                 </p>
               </div>
-    
+
               <div class="testimonial-item">
                 <img src="img/testimonial-5.jpg" class="testimonial-img" alt="">
                 <h3>John Larson</h3>
@@ -543,43 +543,43 @@
               <img src="img/clients/client-1.png" class="img-fluid" alt="">
             </div>
           </div>
-          
+
           <div class="col-lg-3 col-md-4 col-xs-6">
             <div class="client-logo">
               <img src="img/clients/client-2.png" class="img-fluid" alt="">
             </div>
           </div>
-        
+
           <div class="col-lg-3 col-md-4 col-xs-6">
             <div class="client-logo">
               <img src="img/clients/client-3.png" class="img-fluid" alt="">
             </div>
           </div>
-          
+
           <div class="col-lg-3 col-md-4 col-xs-6">
             <div class="client-logo">
               <img src="img/clients/client-4.png" class="img-fluid" alt="">
             </div>
           </div>
-          
+
           <div class="col-lg-3 col-md-4 col-xs-6">
             <div class="client-logo">
               <img src="img/clients/client-5.png" class="img-fluid" alt="">
             </div>
           </div>
-        
+
           <div class="col-lg-3 col-md-4 col-xs-6">
             <div class="client-logo">
               <img src="img/clients/client-6.png" class="img-fluid" alt="">
             </div>
           </div>
-          
+
           <div class="col-lg-3 col-md-4 col-xs-6">
             <div class="client-logo">
               <img src="img/clients/client-7.png" class="img-fluid" alt="">
             </div>
           </div>
-          
+
           <div class="col-lg-3 col-md-4 col-xs-6">
             <div class="client-logo">
               <img src="img/clients/client-8.png" class="img-fluid" alt="">
@@ -687,7 +687,7 @@
           <div class="col-lg-3 col-md-6 footer-contact">
             <h4>Contact Us</h4>
             <p>
-             jln Nusa indah IV no 13 Malaka Jaya Duren sawit Jakarta 13460 <br>
+              jln Nusa indah IV no 13 Malaka Jaya Duren sawit Jakarta 13460 <br>
               <strong>Phone:</strong> 0813-8614-7035<br>
               <strong>Email:</strong> info@example.com<br>
             </p>
@@ -706,7 +706,7 @@
             <h4>Our Newsletter</h4>
             <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna veniam enim veniam illum dolore legam minim quorum culpa amet magna export quem marada parida nodela caramase seza.</p>
             <form action="" method="post">
-              <input type="email" name="email"><input type="submit"  value="Subscribe">
+              <input type="email" name="email"><input type="submit" value="Subscribe">
             </form>
           </div>
 
@@ -718,4 +718,5 @@
     ?>
   </footer>
 </body>
+
 </html>
