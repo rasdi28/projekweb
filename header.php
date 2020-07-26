@@ -22,8 +22,8 @@
               <li><a href="#">Atap Baja Ringan</a></li>
             </ul>
           </li>
-          <li><a href="#intro">Portofolio</a></li>
-          <li><a href="#contact">Contact Us</a></li>
+          <li><a href="portofolio.php">Portofolio</a></li>
+          <li><a href="kontak.php">Contact Us</a></li>
         </ul>
       </nav><!-- .main-nav -->
       

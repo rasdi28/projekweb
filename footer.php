@@ -10,7 +10,7 @@
           Licensing information: https://bootstrapmade.com/license/
           Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=NewBiz
         -->
-        Designed by <a href="https:fauzidesign.com/">BootstrapMade</a>
+        Designed by <a href="https:fauzidesign.com/">Sigmat Project</a>
       </div>
     </div>
   </footer><!-- #footer -->
